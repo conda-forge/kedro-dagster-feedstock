@@ -30,6 +30,8 @@ requirements:
     - kedro-datasets
     - dagster >=1.10,<2.0
     - dagster-webserver
+    - dagster-dg-cli
+    - pydantic>=1.0.0,<3.0.0
 
 tests:
   - python:
