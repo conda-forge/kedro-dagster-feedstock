@@ -3,7 +3,7 @@ schema_version: 1
 
 context:
   name: kedro-dagster
-  version: "0.4.0"
+  version: "0.5.0"
 
 package:
   name: ${{ name|lower }}
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/kedro_dagster-${{ version }}.tar.gz
-  sha256: 9f207e6801398d2b5dd590f82e1335eda546ea6b8d1cd1dab7efc2b1ebe84bdf
+  sha256: 9dcb9c9b2c6970b17d1f52589592752443b4bd9c224a64c230161d7a7d96de23
 
 build:
   number: 0
