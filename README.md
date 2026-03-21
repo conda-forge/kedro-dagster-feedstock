@@ -3,25 +3,24 @@ About kedro-dagster-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kedro-dagster-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/gtauzin/kedro-dagster
+Home: https://pypi.org/project/kedro-dagster
 
 Package license: Apache-2.0
 
 Summary: Kedro-Dagster makes it easy to deploy Kedro projects to Dagster
 
-Development: https://github.com/gtauzin/kedro-dagster
+Development: https://github.com/stateful-y/kedro-dagster
 
-Documentation: https://gtauzin.github.io/kedro-dagster/
+Documentation: https://kedro-dagster.readthedocs.io/
 
 Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=26865&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/kedro-dagster-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
