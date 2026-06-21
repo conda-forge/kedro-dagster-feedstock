@@ -58,7 +58,7 @@ tests:
         PYTHONWARNINGS: "ignore::UserWarning"
       interpreter: python
       content: |
-        import kedro
+        import kedro_dagster
 
 about:
   summary: Kedro-Dagster makes it easy to deploy Kedro projects to Dagster
